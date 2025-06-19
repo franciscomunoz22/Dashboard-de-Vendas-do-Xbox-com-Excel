@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard de Vendas do Xbox com Excel
 
-Neste projeto foi criado uma **dashboard de vendas**, com foco na **organização eficiente de dados** e na **visualização clara e interativa** de informações relevantes. A proposta ao realizar esse porjeto foi de transformar dados brutos em uma dashbord interativa e objetiva, facilitando a análise e auxiliando na **tomada de decisões baseadas em dados**.
+Neste projeto foi criado uma **dashboard de vendas**, com foco na **organização eficiente de dados** e na **visualização clara e interativa** de informações relevantes. A proposta ao realizar esse projeto foi de transformar dados brutos em uma dashboard interativa e objetiva, facilitando a análise e auxiliando na **tomada de decisões baseadas em dados**.
 
 ## 🎯 Objetivos do Projeto
 
