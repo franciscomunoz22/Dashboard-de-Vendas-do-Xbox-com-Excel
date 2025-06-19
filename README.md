@@ -21,12 +21,17 @@ Neste projeto foi criado uma **dashboard de vendas**, com foco na **organizaçã
 <img src="imagens/exemplo_dashboard.png" alt="Dashboard de Vendas em Excel" width="600"/>
 
 💡 Dicas
+
 Utilize tabelas estruturadas e normalizada para facilitar a atualização dos dados.
+
 Evite poluir o painel com informações irrelevantes.
+
 Prefira cores padronizadas e ícones simples para facilitar a leitura.
 
-🤝 Contribuições
-Contribuições são bem-vindas! Se você tem sugestões de melhoria ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 📄 Licença
-Este projeto está licenciado sob a MIT License.
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+🤝 Contribuições
+
+Contribuições são bem-vindas! Se você tem sugestões de melhoria ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
